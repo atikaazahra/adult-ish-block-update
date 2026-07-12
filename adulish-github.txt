@@ -1,0 +1,35 @@
+!
+! Title: Adult Default Blocklist
+! Description: Open-source ad blocker for Adgusrd Dns
+! Last modified: 2026-07-13
+!
+||itotolink.net^
+||baca.co.id^
+||al-array.com^
+||spicyxxxtube.com^
+||www.xvideos1.uk^
+||retrosexvideos.com^
+||m-xnxx.com^
+||pornxxx.tube^
+||annatube.com^
+||www.perverttube.com^
+||perverttube.com^
+||xmovies.com^
+||www.aebn.com^
+||www.lemoncams.com^
+||www.hornybank.com^
+||beeg.tv^
+||www.fullpornxxx.net^
+||acs.telkom.net^
+||fullpornxxx.net^
+||pomporn.com^
+||en-pornhub.com^
+||steamygamer.com^
+||www.pornoorg.com^
+||en.xnxx.place^
+||freexxx.to^
+||www.straightdope.com^
+||sex.cosmopolitan.com^
+||www.fullvideos.xxx^
+||www.xxxfollow.com^
+||porntubexxx.com^
