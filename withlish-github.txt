@@ -21,6 +21,7 @@
 ||kwiky.com^$all
 ||kwikylive.com^$all
 ||kwikyfans.com^$all
+||xmovies.com^$all
 
 ! Daftar pengecualian
 @@||whatsapp.com^$important
