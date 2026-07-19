@@ -10,6 +10,8 @@
 ||*kingbokep*^
 ||*kingbokeptv*^
 ||*bokep*^
+||*bokeb*^
+||*colmek*^
 ||*porno*^
 ||*tantenakal*^
 ||*moncrot*^
@@ -32,6 +34,24 @@
 ||abgcrot.com^$all
 ||abgcrot.stream^$all
 ||moncrot.vip^$all
+||dicrotin.com^$all
+||fapzone.cc^$all
+||cumtube.cc^$all
+||xvids.win^$all
+||fictube.cc^$all
+||sefu.cc^$all
+||biguz.cc^$all
+||smut.cc^$all
+||xnxxdesi.cc$all
+||tktub.cc$all
+||guochanse.cc$all
+||xnxxlust.cc$all
+||tktubexxx.com$all
+||javasian.cc$all
+||pajatube.cc$all
+||yobt.cc$all
+||newxnxx.cc$all
+||*.cc^$all
 
 ! Daftar pengecualian
 @@||whatsapp.com^$important
