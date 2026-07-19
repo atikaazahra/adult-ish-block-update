@@ -1,6 +1,15 @@
 ! Description: Open-source whitelish
 ! Last modified: 2026-07-13
 !
+||itotolink.net^$all
+||baca.co.id^$all
+||al-array.com^$all
+||telkom.net^$all
+||*kingbokep*^
+||*kingbokeptv*^
+||jonitv.com^$all
+||*bokep*^
+||*porno*^
 @@||whatsapp.com^$important
 @@||wa.me^$important
 @@||whatsapp.net^$important
