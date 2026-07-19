@@ -11,8 +11,13 @@
 ||*kingbokeptv*^
 ||*bokep*^
 ||*porno*^
+||*tantenakal*^
+||*moncrot*^
+||*indo18plus*^
+||*indovidplus*^
 ||dirtymaps.com^$all
 ||duniastreaming.net^$all
+||app.duniastreaming.net^$all
 ||xxxfollow.com^$all
 ||www.xxxfollow.com^$all
 ||en-pornhub.com^$all
@@ -22,6 +27,11 @@
 ||kwikylive.com^$all
 ||kwikyfans.com^$all
 ||xmovies.com^$all
+||freexxx.to^$all
+||xxx.org^$all
+||abgcrot.com^$all
+||abgcrot.stream^$all
+||moncrot.vip^$all
 
 ! Daftar pengecualian
 @@||whatsapp.com^$important
