@@ -51,7 +51,7 @@
 ||pajatube.cc$all
 ||yobt.cc$all
 ||newxnxx.cc$all
-||*.cc^$all
+||vergon.win^$all
 
 ! Daftar pengecualian
 @@||whatsapp.com^$important
