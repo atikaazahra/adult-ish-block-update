@@ -1,6 +1,7 @@
 ! Description: Open-source whitelish
 ! Last modified: 2026-07-13
-!
+
+! Daftar blokir
 ||itotolink.net^$all
 ||baca.co.id^$all
 ||al-array.com^$all
@@ -16,6 +17,8 @@
 ||www.xxxfollow.com^$all
 ||en-pornhub.com^$all
 ||www.en-pornhub.com^$all
+
+! Daftar pengecualian
 @@||whatsapp.com^$important
 @@||wa.me^$important
 @@||whatsapp.net^$important
