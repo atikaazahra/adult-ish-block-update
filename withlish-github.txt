@@ -18,6 +18,9 @@
 ||en-pornhub.com^$all
 ||www.en-pornhub.com^$all
 ||pornxxx.tube^$all
+||kwiky.com^$all
+||kwikylive.com^$all
+||kwikyfans.com^$all
 
 ! Daftar pengecualian
 @@||whatsapp.com^$important
