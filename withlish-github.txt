@@ -17,6 +17,7 @@
 ||www.xxxfollow.com^$all
 ||en-pornhub.com^$all
 ||www.en-pornhub.com^$all
+||pornxxx.tube^$all
 
 ! Daftar pengecualian
 @@||whatsapp.com^$important
