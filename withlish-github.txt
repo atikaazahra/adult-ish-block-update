@@ -5,9 +5,9 @@
 ||baca.co.id^$all
 ||al-array.com^$all
 ||telkom.net^$all
+||jonitv.com^$all
 ||*kingbokep*^
 ||*kingbokeptv*^
-||jonitv.com^$all
 ||*bokep*^
 ||*porno*^
 @@||whatsapp.com^$important
