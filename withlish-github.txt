@@ -1,6 +1,5 @@
 ! Description: Open-source whitelish
 ! Last modified: 2026-07-13
-
 ! Daftar blokir
 ||itotolink.net^$all
 ||baca.co.id^$all
