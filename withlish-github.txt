@@ -1,6 +1,7 @@
 ! Description: Open-source whitelish
 ! Last modified: 2026-07-13
 ! Tambahan blokir Daftar blokir utama  https://nsfw.oisd.nl/
+
 ||itotolink.net^$all
 ||baca.co.id^$all
 ||al-array.com^$all
