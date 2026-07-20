@@ -12,6 +12,8 @@
 ||*bokep*^
 ||*bokeb*^
 ||*colmek*^
+||*montok*^
+||*mokondo*^
 ||*porno*^
 ||*dicrotin*^
 ||*tantenakal*^
@@ -52,6 +54,10 @@
 ||yobt.cc$all
 ||newxnxx.cc$all
 ||vergon.win^$all
+||nokephub.tv^$all
+||tantemalam.fit^$all
+||avtub.fit^$all
+||indo18.id^$all
 
 ! Daftar pengecualian
 @@||whatsapp.com^$important
@@ -159,3 +165,5 @@
 @@||ecn.dev.virtualearth.net^$important
 @@||placehold.it^$important
 @@||gravatar.com^$important
+@@||shopee.co.id^$important
+@@||tokopedia.com^$important
