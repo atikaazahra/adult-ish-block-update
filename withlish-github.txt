@@ -60,6 +60,7 @@
 ||indo18.id^$all
 
 ! Daftar pengecualian
+@@||googleusercontent.com^$important
 @@||whatsapp.com^$important
 @@||wa.me^$important
 @@||whatsapp.net^$important
