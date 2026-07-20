@@ -57,3 +57,4 @@
 ||tantemalam.fit^$all
 ||avtub.fit^$all
 ||indo18.id^$all
+||patreon.com^$all
